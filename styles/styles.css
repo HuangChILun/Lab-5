@@ -1,0 +1,31 @@
+.body {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.header{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.Anchors {
+    color: #00376c;
+    text-decoration:none;
+}
+.h3heading {
+    border-bottom:1px solid #7b7b7b;
+   
+}
+#paragraphfirst {
+    line-height: 1%;
+}
+.paragraphsecond {
+    line-height: 10%;
+    padding-left: 3%;
+}
+.paragraphdate {
+    padding-left: 20%;
+}
+.li {
+    padding-left: 6%;
+}
+
+  
